@@ -1,0 +1,6 @@
+requests
+time
+bs4
+googlesearch
+random_user_agent
+urllib3
