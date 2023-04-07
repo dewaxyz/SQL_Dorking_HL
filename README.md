@@ -4,8 +4,8 @@ SQL DORKING SIMPLE BUT OP :D
 How to use this tool 
 
 Example dork: page.php?id=
-Note:never put inurl: or something like that
-     just put the page link only like that example
+Note:never put "inurl:" or something like that
+     just put the page link only
 
 $ python dorkhunter.py
 
