@@ -36,7 +36,7 @@ except ModuleNotFoundError:
     install("urllib3") 
 print("""
 \033[1;33;40m ########################
-    \033[1;31m DORK HUNTER SQLI V8           
+    \033[1;31m DORK HUNTER SQLI V1.8          
     \033[1;32m Autor : xTmTx                            
     \033[1;34m Note : Vuln or Not just use it   
 \033[1;33m ########################
